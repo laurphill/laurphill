@@ -21,7 +21,7 @@ laurphill@github:~$ ./welcome.sh
                                                     ⠀⠀⠀⠀⠀⠀⠀⠀⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                      
 ₊˚ ‿︵‿︵‿︵୨୧ · · ♡ · · ୨୧‿︵‿︵‿︵ ˚₊₊˚ ‿︵‿︵‿︵୨୧ · · ♡ · · ୨୧‿︵‿︵‿︵ ˚₊₊˚ ‿︵‿︵‿︵୨୧ · · ♡ · · ୨୧‿︵‿︵‿︵ ˚₊₊˚ ‿︵‿︵‿︵୨୧ · · ♡ · · ୨୧‿︵‿︵‿︵ ˚₊
 ```
-<img align="left" src="https://github.com/laurphill/laurphill/blob/main/IMG_8593.jpg?raw=true" width="540" /> 
+<img align="left" src="https://github.com/laurphill/laurphill/blob/main/IMG_8593.jpg?raw=true" width="500" /> 
 
 ```
 Computer science student with an interest in cyber security and game development!

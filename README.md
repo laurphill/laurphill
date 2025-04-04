@@ -55,9 +55,7 @@ in cyber security and game development!
     <img src="https://github-readme-stats.vercel.app/api?username=laurphill&theme=nightowl&show_icons=true&count_private=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=laurphill&theme=nightowl&hide_border=false" />
 </td>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=laurphill&theme=nightowl&hide_border=false&langs_count=10"/>
-</td>
+
 </tr>
 </table>
 </p>

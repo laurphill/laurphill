@@ -24,7 +24,7 @@ laurphill@github:~$ ./welcome.sh
 <img align="left" src="https://github.com/laurphill/laurphill/blob/main/IMG_8593.jpg?raw=true" width="500" /> 
 
 ```
-First year comp sci student with an interest
+Comp-sci student with an interest
 in cyber security and game development!
 
   🌜 Current knowledge:
@@ -33,8 +33,8 @@ in cyber security and game development!
 
 
 - 📖  I’m currently learning ...
-  - creating web applications with Flask
-  - Java 
+  - Java
+  - JavaScript and C++
 
 - 👾 Outside of school I love to...
   - 🎮 play video games

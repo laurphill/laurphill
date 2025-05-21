@@ -29,10 +29,8 @@ in cyber security and game development!
   - Python
   - HTML & CSS
 
-
 - 📖  I’m currently learning ...
-  - Java
-  - JavaScript and C++
+  - Java & JavaScript
 
 - 👾 Outside of school I love to...
   - 🎮 play video games

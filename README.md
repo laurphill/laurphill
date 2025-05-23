@@ -36,7 +36,6 @@ in cyber security and game development!
   - 🎮 play video games
   - 🎵 listen to music
   - 📖 read
-  - 🌿 be outdoors
   - 🐶 volunteer
 ```
 

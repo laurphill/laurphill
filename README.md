@@ -19,7 +19,7 @@
                                                     ⠀⠀⠀⠀⠀⠀⠀⠀⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                      
 ₊˚ ‿︵‿︵‿︵୨୧ · · ♡ · · ୨୧‿︵‿︵‿︵ ˚₊₊˚ ‿︵‿︵‿︵୨୧ · · ♡ · · ୨୧‿︵‿︵‿︵ ˚₊₊˚ ‿︵‿︵‿︵୨୧ · · ♡ · · ୨୧‿︵‿︵‿︵ ˚₊₊˚ ‿︵‿︵‿︵୨୧ · · ♡ · · ୨୧‿︵‿︵‿︵ ˚₊
 ```
-<img align="left" src="https://github.com/laurphill/laurphill/blob/main/IMG_8593.jpg?raw=true" width="500" /> 
+<img align="left" src="https://github.com/laurphill/laurphill/blob/main/IMG_8593.jpg?raw=true" width="500" height="390"/> 
 
 ```
 Comp-sci student with an interest
@@ -29,8 +29,10 @@ in cyber security and game development!
   - Python
   - HTML & CSS
 
+
 - 📖  I’m currently learning ...
   - Java & JavaScript
+
 
 - 👾 Outside of school I love to...
   - 🎮 play video games

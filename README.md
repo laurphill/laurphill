@@ -28,11 +28,10 @@ in cyber security and game development!
   🌜 Current knowledge:
   - Python
   - HTML & CSS
-
-
-- 📖  I’m currently learning ...
   - Java & JavaScript
 
+- 📖  I’m currently learning ...
+  - C & C++
 
 - 👾 Outside of school I love to...
   - 🎮 play video games

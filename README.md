@@ -29,10 +29,11 @@ in cyber security and game development!
   - Python
   - HTML & CSS
   - Java
+  - C
 
 - 📖  I’m currently learning ...
-  - C & C++
   - JavaScript
+  - PLCs
 
 - 👾 Outside of school I love to...
   - 🎮 play video games

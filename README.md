@@ -30,7 +30,7 @@ in cyber security and game development!
   - HTML & CSS
   - Java
   - C
-  - FBD programming for PLCs
+  - FBD PLC programming
 
 - 📖  I’m currently learning ...
   - JavaScript

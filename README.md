@@ -35,6 +35,7 @@ in cyber security and game development!
 - 📖  I’m currently learning ...
   - JavaScript
   - PLCs
+  - VTScada software
 
 - 👾 Outside of school I love to...
   - 🎮 play video games
